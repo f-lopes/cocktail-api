@@ -5,4 +5,7 @@
 - Spring MVC
 - Spring Data JPA
 - Spring Data REST
-- Spring Security OAuth2
+- Spring Security
+
+
+See Procfile for Heroku deployment
